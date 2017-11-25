@@ -17,6 +17,12 @@ displayFont="FiraCode"
 ![screenshot](screenshot.png)
 
 
+## Manual Installation
+
+- copy the folder nebula to /usr/share/sddm/themes
+- open SDDM settings and select nebula or...
+- ...change CurrentTheme to nebula in /etc/sddm.conf 
+
 ### A Note on dependencies
 
 - If the date is displaying in an small font you may be required to install the ttf-droid font 
