@@ -1,0 +1,15 @@
+[SddmGreeterTheme]
+Name=Nebula Theme 
+Description=Nebula Theme for SDDM
+Author=Fawix
+Copyright=CC-BY
+Type=sddm-theme
+Version=1.0
+Website=https://github.com/fawix/nebula-sddm-theme
+Screenshot=screenshot_small.png
+MainScript=Main.qml
+ConfigFile=theme.conf
+TranslationsDirectory=translations
+Email=fawixfa@gmail.com
+Theme-Id=nebula-sddm-theme
+Theme-API=2.0
